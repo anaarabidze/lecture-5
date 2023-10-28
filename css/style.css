@@ -1,0 +1,266 @@
+.container{
+	width: 1291px;
+	margin: 54px auto;
+}
+
+div, li {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+.my1{
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 87px;
+}
+
+.my2{
+	color: #8D81FF;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 87px;
+}
+
+.my26{
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	margin: 52px 0px 18px 0px;
+	color: #84FF81;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+}
+
+.maisi {
+	color: #8D81FF;
+	font-family: "BPG Square", sans-serif;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+	padding-bottom: 8px;
+}
+
+.myh2 {
+	color: #4E6FAE;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-bottom: 13px;
+}
+
+img {
+	vertical-align: top;
+
+}
+
+.mydiv {
+	display: inline-block;
+	width: 770px;
+	height: 353px;
+	color: #4E6FAE;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	vertical-align: top;
+	margin-left: 66px;
+	margin-bottom: 155px;
+}
+
+
+.my27 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	margin: 0px 0px 18px 0px;
+	color: #84FF81;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+}
+
+.my28 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	margin: 0px 0px 18px 0px;
+	color: #84FF81;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+}
+
+.mydiv2{
+	width: 1021px;
+	height: 148px;
+	color: #4E6FAE;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 32px 0px 132px 0px;
+}
+
+.myimg {
+	margin: 0px 41px;
+}
+
+
+
+/*page2*/
+.container2 {
+	margin: 0px auto;
+	width: 1052px;
+}
+
+.banner{
+	margin-bottom: 120px;
+}
+
+.myh3 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.line {
+	vertical-align: middle;
+	margin: 0px 18px;
+}
+
+.myh4 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.card1{
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	margin: 26px 46px 91px 0px;
+	padding: 21px 15px 32px 23px;
+	vertical-align: top;
+}
+
+.card2{
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	margin: 26px 0px 91px 0px;
+	padding: 21px 15px 32px 23px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.myh5 {
+	width: 307px;
+	color: #3F4145;
+	s
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+  
+.image{
+	margin: 30px 30px 0px 0px;
+	vertical-align: top;
+}
+
+
+.myh6 {
+	width: 335px;
+	eight: 95px;
+	color: #7E8898;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 21px;
+}
+
+
+
+/*page3*/
+.mysec {
+	width: 1660px;
+	height: 735px;
+	background-color: #E7E7E7;
+	margin-bottom: 104px;
+	
+}
+
+
+ .info{
+ 	color: #4E6FAE;
+ 	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	
+ }
+
+
+ .h2 {
+ 	color: #7E8898;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+ }
+
+ .h3 {
+ 	color: #3F4145;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+ }
+ 
+.infodiv{
+	vertical-align: top;
+	margin: 93px 40px 0px 162px;;
+}
+
+ .map{
+ 	 width: 944px;
+	height: 549px;;
+	vertical-align: top;
+	margin-top: 93px;
+ }
